@@ -13,7 +13,7 @@ Aplikacija je dizajnirana sa potpunim fokusom na učenje i pratećim modulima za
   - `MA120` – Linearna algebra
   - `NT110` – Poslovna komunikacija
   - `NT111` – Engleski 1
-  - `SE101` – Softverski inženjering
+  - `SE101` – Inženjerstvo Softvera
 
 - **Raznovrsni tipovi testova i lekcija:**
   - **Teorijsko gradivo:** Pregled lekcija sa strukturisanim tekstom, podvučenim i boldovanim stavkama.

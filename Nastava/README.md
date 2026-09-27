@@ -2,7 +2,7 @@
 
 **StudyOS** je desktop aplikacija razvijena u Python-u sa Tkinter GUI interfejsom, namenjena vođenom učenju, savladavanju gradiva i samostalnoj proveri znanja kroz interaktivne testove.
 
-Aplikacija je dizajnirana sa potpunim fokusom na učenje — pruža rad bez ometanja (fullscreen interfejs sa mehanizmima za sprečavanje preranog izlaska) i pratećim modulima za praćenje napretka.
+Aplikacija je dizajnirana sa potpunim fokusom na učenje i pratećim modulima za praćenje napretka.
 
 ---
 

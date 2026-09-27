@@ -41,6 +41,10 @@ Aplikacija je dizajnirana sa potpunim fokusom na učenje i pratećim modulima za
 
 ## 📦 Instalacija i Pokretanje
 
-1. **Klonirajte repozitorijum:**
-   ```bash
-   git clone [https://github.com/TomislavRendulic/python-skolske-aplikacije.git](https://github.com/TomislavRendulic/python-skolske-aplikacije.git)
+Pokrenite sledeće komande u terminalu:
+
+```bash
+git clone https://github.com/TomislavRendulic/python-skolske-aplikacije.git
+cd python-skolske-aplikacije/Nastava
+pip install Pillow
+python Nastava5.py

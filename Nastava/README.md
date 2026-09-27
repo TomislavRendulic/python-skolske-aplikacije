@@ -43,5 +43,4 @@ Aplikacija je dizajnirana sa potpunim fokusom na učenje i pratećim modulima za
 
 1. **Klonirajte repozitorijum:**
    ```bash
-   git clone 
-   cd StudyOS-Nastava
+   git clone [https://github.com/TomislavRendulic/python-skolske-aplikacije.git](https://github.com/TomislavRendulic/python-skolske-aplikacije.git)
